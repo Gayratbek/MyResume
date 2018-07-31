@@ -13,5 +13,15 @@
 
 # Application Server :  JBOSS, administration(Add datasources , xa –datasources , add roles , users)
 - skill:  (Application Server) JBOSS, administration(Add datasources , xa –datasources , add roles , users)
-  description: After Cobol I started to learn 1C to solve  accounting and financial issues. I worked as a administrator.
-
+  description: All my projects are installed in Jboss server. I learned JBOSS server to manage my projects, There is nobody who knows JBOSS except me.
+  
+# Reporting & BI Tools:  Birt reporting,  Crystal Report 
+- skill:  (Reporting & BI Tools) Birt reporting,  Crystal Report 
+  description: I have used BIRT reporting in all my projects which need to be used Reporting. I have a bit knowledge about crystal Report.
+  
+# Development tools: Eclipse,  Oracle JDeveloper,  Intellij Idea 
+- skill:  Eclipse,  Oracle JDeveloper,  Intellij Idea 
+  description: I started to learn Java language in  Oracle JDeveloper IDE. Then I built my projects in Eclipse, because It has many opportunities. Then I knew It was not the best IDE. I learned Intellij IDEA . I exported Most my running projects to Intellij. I love Intellij Idea most.
+  
+  
+  
