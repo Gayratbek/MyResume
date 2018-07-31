@@ -1,17 +1,16 @@
         - company: UzDaewoo Auto Company Asaka, Uzbekistan
-          position: VP of Global Communications
-          duration: Oct, 2013 &mdash; Present
-          summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+          position: System sustainer , Office Automation
+          duration: 2003 - 2006
+          summary: I Installed OS to company desktops and do  network settings and sustained solved software issues of users .	<ul class="resume-item-list">	<li>Transporting Expenditure</li>	<li>Network knowledge</li></ul>       
        
-       - company: GMUzbekistan Asaka, Uzbekistan
-         role: Senior Software Developer
-         time: 2006 - 2011
-         details: Describe your role I started to make an application in Cobol. There was IBM As400 OS .
-         We made many projects in Cobol language for material Control and Production control.
-         Except cobol sometimes I made an application in C++. One of them is Transporting expenditure;
+        - company: GMUzbekistan Asaka, Uzbekistan
+          position: Senior Software Developer
+          duration: 2006 - 2011
+          summary: Describe your role I started to make an application in Cobol. There was IBM As400 OS . We made many projects in Cobol language for material Control and Production control.         Except cobol sometimes I made an application in C++. One of them is Transporting expenditure;
               
-        - role: Software Engineer
-          time: 2011 - 2017
+        - company: GMUzbekistan Asaka, Uzbekistan
+          position: Software Engineer
+          duration: 2011 - 2017
           company: GMUzbekistan Asaka, Uzbekistan
-          details: Describe your role here I started make a large projects and started to export our Cobol application to web applications
+          summary: Describe your role here I started make a large projects and started to export our Cobol application to web applications
           I have exported many applications to Web environment using Java tools and technologies.
