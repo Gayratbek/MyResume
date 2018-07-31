@@ -1,14 +1,14 @@
-        - role: System sustainer , Office Automation
+        - company: UzDaewoo Auto Company Asaka, Uzbekistan
+          role: System sustainer , Office Automation
           time: 2003 - 2006
-          company: UzDaewoo Auto Company Asaka, Uzbekistan
           details: Describe your role here I Installed OS to company desktops and do  network settings and sustained solved software issues of users .
              
-       -  role: Senior Software Developer
-          time: 2006 - 2011
-          company: GMUzbekistan Asaka, Uzbekistan
-          details: Describe your role I started to make an application in Cobol. There was IBM As400 OS .
-          We made many projects in Cobol language for material Control and Production control.
-          Except cobol sometimes I made an application in C++. One of them is Transporting expenditure;
+       - company: GMUzbekistan Asaka, Uzbekistan
+         role: Senior Software Developer
+         time: 2006 - 2011
+         details: Describe your role I started to make an application in Cobol. There was IBM As400 OS .
+         We made many projects in Cobol language for material Control and Production control.
+         Except cobol sometimes I made an application in C++. One of them is Transporting expenditure;
               
         - role: Software Engineer
           time: 2011 - 2017
