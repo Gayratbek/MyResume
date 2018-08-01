@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Transporting expenditure
+- project:  Transporting expenditure
+  role: Engineer Develper
+  duration: 2005 &mdash; 2006
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: "this application calculate car and vehicle expenditure in C++. Responsive can make reports based on this application. Technologies: ": Borland C++, Firebird Interbase 6.0.
 
-# Springfield Community Outreach Group
+# Material control system
 - project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+  role: Engineer Develper
+  duration: 2007 &mdash; 2012
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Accounting for material control details, and pricing. Preparation balance report, the defective parts report. 
