@@ -6,7 +6,7 @@
   role: Engineer Develper
   duration: 2005 &mdash; 2006
   # url: "#"
-  description: "this application calculate car and vehicle expenditure in C++. Responsive can make reports based on this application. Technologies: ": Borland C++, Firebird Interbase 6.0.
+  description: This application calculate car and vehicle expenditure in C++. Responsive can make reports based on this application. Used technologies are   Borland C++, Firebird Interbase 6.0.
 
 # Material control system
 - project: Springfield Community Outreach Group
