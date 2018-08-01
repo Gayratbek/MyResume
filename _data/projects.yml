@@ -9,8 +9,22 @@
   description: This application calculate car and vehicle expenditure in C++. Responsive can make reports based on this application. Used technologies are   Borland C++, Firebird Interbase 6.0.
 
 # Material control system
-- project: Springfield Community Outreach Group
+- project: Material control system
   role: Engineer Develper
   duration: 2007 &mdash; 2012
   # url: "#"
-  description: Accounting for material control details, and pricing. Preparation balance report, the defective parts report. 
+  description: Accounting for material control details, and pricing. Preparation balance report, the defective parts report. Used technologies are   Cobol, DB/2.
+
+# Production control system
+- project: Production control system
+  role: Engineer Develper
+  duration: 2007 &mdash; 2016
+  # url: "#"
+  description: Vehicle movement control , Vehicle BOM control,  Calculating vehicle Cost BOM report. Used technologies are   Cobol, DB/2.
+
+# Production control system
+- project: Production control system
+  role: Engineer Develper
+  duration: 2007 &mdash; 2016
+  # url: "#"
+  description: Vehicle movement control , Vehicle BOM control,  Calculating vehicle Cost BOM report. Used technologies are   Cobol, DB/2.
