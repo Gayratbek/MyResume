@@ -1,19 +1,16 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: UzDaewoo Auto Company Asaka, Uzbekistan
+          position: System sustainer , Office Automation
+          duration: 2003 - 2006
+          summary: I Installed OS to company desktops and do  network settings and sustained solved software issues of users .	<ul class="resume-item-list">	<li>Transporting Expenditure</li>	<li>Network knowledge</li></ul>       
+       
+        - company: GMUzbekistan Asaka, Uzbekistan
+          position: Senior Software Developer
+          duration: 2006 - 2011
+          summary: Describe your role I started to make an application in Cobol. There was IBM As400 OS . We made many projects in Cobol language for material Control and Production control.         Except cobol sometimes I made an application in C++. One of them is Transporting expenditure;
+              
+        - company: GMUzbekistan Asaka, Uzbekistan
+          position: Software Engineer
+          duration: 2011 - 2017
+          summary: Describe your role here I started make a large projects and started to export our Cobol application to web applications. I have exported many applications to Web environment using Java tools and technologies.
