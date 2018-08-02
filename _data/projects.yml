@@ -3,14 +3,51 @@
 
 # Transporting expenditure
 - project:  Transporting expenditure
-  role: Engineer Develper
+  role: Senior Software Developer
   duration: 2005 &mdash; 2006
   # url: "#"
-  description: "this application calculate car and vehicle expenditure in C++. Responsive can make reports based on this application. Technologies: ": Borland C++, Firebird Interbase 6.0.
+  description: This application calculate car and vehicle expenditure in C++. Responsive can make reports based on this application. Used technologies are   Borland C++, Firebird Interbase 6.0.
 
 # Material control system
-- project: Springfield Community Outreach Group
-  role: Engineer Develper
+- project: Material control system
+  role: Software Engineer, Software developer
   duration: 2007 &mdash; 2012
   # url: "#"
-  description: Accounting for material control details, and pricing. Preparation balance report, the defective parts report. 
+  description: Accounting for material control details, and pricing. Preparation balance report, the defective parts report. Used technologies are   Mainframe/Legacy,  Cobol/400, DB2/400.
+
+# Production control system
+- project: Production control system
+  role: Software Engineer, Software developer
+  duration: 2007 &mdash; 2016
+  # url: "#"
+  description: Vehicle movement control , Vehicle BOM control,  Calculating vehicle Cost BOM report. Used technologies are   Mainframe/Legacy,  Cobol/400, DB2/400.
+
+# Line Stop control
+- project: Line Stop control
+  role: Software Engineer, Software developer
+  duration: 2016 &mdash; 2017
+  # url: "#"
+  description: Calculating total line stop minutes , based on this Calculate total loss because of this reason. Used technologies are Java EE(JSF, CDI, EJB,JPA ),  DB2/400, JBOSS web server, BIRT reporting.
+
+# CAB(Change approval board)
+- project: CAB(Change approval board) 
+  role: Software Engineer, Software developer
+  duration: 2015 &mdash; 2017
+  # url: "#"
+  description: Business process for task control. Used technologies are Java EE(JSF, CDI, EJB,JPA ),  DB2/400, JBOSS web server, BIRT reporting.
+
+# Production pull System(PPS ) 
+- project: GM Production pull System(PPS ) 
+  role: Project manager
+  duration: 2012 &mdash; 2015
+  # url: "#"
+  description: Develop and deploy systems Global GM  system PPS  is dedicate to control material movement and request for Warehouse for deficiency parts.    It is automated, there is no  human factor.
+
+# Sending GWM information to GM Sterling
+- project: Sending GWM information to GM Sterling
+  role: Software Engineer, Software developer
+  duration: 2017 &mdash; 2017
+  # url: "#"
+  description: Automatically sending local information to GIF server for GM Global warranty system. Used technologies are Java EE (EJB(@schedule) JPA(Hibernate Mapping, JPQL), Maven(ear plugin)) , Java 8 Lambda , ftpclient(local resource), jcraft(remote resource) , Logging. 
+
+
